@@ -30,7 +30,7 @@ dependencies {
     compileOnly("org.projectlombok:lombok:1.18.32")
     compileOnly("org.spigotmc:spigot-api:1.20.4-R0.1-SNAPSHOT")
     compileOnly("com.github.MilkBowl:VaultAPI:1.7")
-    compileOnly("me.clip:placeholderapi:2.11.5")
+    compileOnly("me.clip:placeholderapi:2.11.6")
 
     implementation("de.jeff_media:SpigotUpdateChecker:1.3.2")
     implementation("org.bstats:bstats-bukkit:3.0.2")
